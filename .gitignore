@@ -1,4 +1,11 @@
 .DS_Store
+
+Autoencoders/.DS_Store
 LinearRegression/.DS_Store
 SupportVectorMachine/.DS_Store
 NeuralNetwork/.DS_Store
+
+Autoencoders/.ipynb_checkpoints/
+NeuralNetwork/.ipynb_checkpoints/
+SupportVectorMachine/.ipynb_checkpoints/
+LinearRegression/.ipynb_checkpoints/
