@@ -24,8 +24,6 @@ Given some input, how do we teach the neural network to recognize a certain digi
 
 <strong>Stochastic Gradient Descent</strong>
 
-&nbsp;
-
 Stochastic Gradient Descent (SGD) is an iterative process for stochastic approximation of the gradient descent optimization. Its goal is to find the local maximum or minimum step by step. It is akin to&nbsp;a ball rolling down a hill, we want to find the bottom of the hill because that is where the minimum error (i.e likely where the network has the most correct guesses).
 
 There are some problems with gradient descent, one of the main ones is called the valley problem; where there can multiple local minimus, but the one the network finds is not necessarily the global one. Plus there could be multiple local minimums. The other problem is the vanishing gradient problem. This where the changes in weights that propagates back become so small that barely change the weights. These issues with neural networks will be discussed in another blog post.
