@@ -20,10 +20,10 @@ This will allow us to find the line of best fit where the mean square error is a
 <strong>Results</strong>
 <p class="p1"><span class="s1">Least Square: 4918.9</span></p>
 <p class="p1"><span class="s1">Least Square Gradient Descent: 5690.9 [Epoch: 20 | Learning Rate: .001]</span></p>
-Even though Least Square scores significantly better, Gradient Descent can usually reach similar performance with enough epochs (iterations over the data).
+<p>Even though Least Square scores significantly better, Gradient Descent can usually reach similar performance with enough epochs (iterations over the data).</p>
 
 <strong>Conclusion</strong>
-Linear Regression is an easy model to implement and allows us to get a better understanding of the data. One of the issues with Linear Regression is that it is not a very powerful modeling tool; it just tries to draw a straight line through the data. However, in general, simpler models tend to work better, so don't forget to try them out. To see the full code, please check out my GitHub.
+<p>Linear Regression is an easy model to implement and allows us to get a better understanding of the data. One of the issues with Linear Regression is that it is not a very powerful modeling tool; it just tries to draw a straight line through the data. However, in general, simpler models tend to work better, so don't forget to try them out. To see the full code, please check out my GitHub.</p>
 
 
 <strong>Further Reading &amp; Other Tutorials</strong>
