@@ -4,8 +4,12 @@ Autoencoders/.DS_Store
 LinearRegression/.DS_Store
 SupportVectorMachine/.DS_Store
 NeuralNetwork/.DS_Store
+LongShortTermMemory/.DS_Store
+ConvolutionalNeuralNetwork/.DS_Store
 
 Autoencoders/.ipynb_checkpoints/
 NeuralNetwork/.ipynb_checkpoints/
 SupportVectorMachine/.ipynb_checkpoints/
 LinearRegression/.ipynb_checkpoints/
+LongShortTermMemory/.ipynb_checkpoints/
+ConvolutionalNeuralNetwork/.ipynb_checkpoints/
