@@ -57,7 +57,7 @@ Neural Networks are a powerful type of learning architecture that allows it lear
  	<li><a href="https://www.tensorflow.org/get_started/mnist/beginners">[Tensorflow] MNIST For ML Beginners</a></li>
  	<li><a href="http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/">[Standford] Multi-Layer Neural Network</a></li>
  	<li><a href="https://www.youtube.com/watch?v=h3l4qz76JhQ">[Siraj Raval] Build a Neural Net in 4 Minutes</a></li>
- 	<li><a href="http://karpathy.github.io/neuralnets/">[Andrej Karpathy]Hacker's guide to Neural Networks</a></li>
+ 	<li><a href="http://karpathy.github.io/neuralnets/">[Andrej Karpathy] Hacker's guide to Neural Networks</a></li>
  	<li><a href="https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0">[The Theory Of Everything] Understanding Activation Functions in Neural Networks</a></li>
  	<li><a href="https://en.wikipedia.org/wiki/Backpropagation">[Wikipedia] Backpropagation</a></li>
 </ul>
