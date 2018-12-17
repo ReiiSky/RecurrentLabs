@@ -11,7 +11,7 @@ Where y' is the actual output and y is the estimated output.
 <p>We are going to bring back an old friend from our previous tutorial, gradient descent. By using this iterative process, we can approximate the line of best fit. Because remember, gradient descent allows us to minimize a function, and in our case, that will be our Mean Square Error function. We want to minimize it, and we can do that by taking the partial derivative with respect to a and b. We can also replace y with xb + a.</p>
 
 Then by iterating over the data points, calculating the results and summing them together, we can determine the new a and b. Below is a graph how line changes after epoch.
-
+</br>
 <strong>Least Square Method</strong>
 So now that we have gone over the iterative process, let's discuss how we can solve this problem outright. We can do this by using a method call the Least Square.
 
