@@ -13,3 +13,16 @@ SupportVectorMachine/.ipynb_checkpoints/
 LinearRegression/.ipynb_checkpoints/
 LongShortTermMemory/.ipynb_checkpoints/
 ConvolutionalNeuralNetwork/.ipynb_checkpoints/
+LanguageModel/.ipynb_checkpoints/LanguageModel-checkpoint.ipynb
+LanguageModel/__pycache__/reader.cpython-36.pyc
+LanguageModel/__pycache__/util.cpython-36.pyc
+LanguageModel/simple-examples/data/ptb.char.test.txt
+LanguageModel/simple-examples/data/ptb.char.train.txt
+LanguageModel/simple-examples/data/ptb.char.valid.txt
+LanguageModel/simple-examples/data/ptb.test.txt
+LanguageModel/simple-examples/data/ptb.train.txt
+LanguageModel/simple-examples/data/ptb.valid.txt
+LanguageModel/simple-examples/data/README
+LanguageModel/.ipynb_checkpoints/LanguageModel-checkpoint.ipynb
+LanguageModel/.ipynb_checkpoints/LanguageModel-checkpoint.ipynb
+LanguageModel/.ipynb_checkpoints/LanguageModel-checkpoint.ipynb
