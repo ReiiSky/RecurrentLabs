@@ -24,3 +24,5 @@ LanguageModel/simple-examples/data/ptb.train.txt
 LanguageModel/simple-examples/data/ptb.valid.txt
 LanguageModel/simple-examples/data/README
 LanguageModel/.ipynb_checkpoints/LanguageModel-checkpoint.ipynb
+NeuralNetworks/Scripts/__pycache__/mnist_loader.cpython-37.pyc
+NeuralNetworks/Scripts/__pycache__/mnist_loader.cpython-37.pyc
